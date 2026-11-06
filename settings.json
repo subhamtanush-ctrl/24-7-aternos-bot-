@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "NightMares-SMP.aternos.me",
+    "port": 52676,
     "version": "1.20.1",
     "try-creative": false
   },
